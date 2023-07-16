@@ -406,7 +406,7 @@ export default {
       showSizeItem: this.$pc,// 列表模式下是否显示文件大小
       sharer: undefined,//分享者信息
       sharerAvatarUrl: '',
-      netdiskName: 'JmalCloud',
+      netdiskName: 'DSCloud',
       netdiskLogo: '',
       showShareCode: false,
       shareData: {},

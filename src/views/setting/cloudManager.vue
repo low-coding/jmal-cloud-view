@@ -138,7 +138,7 @@ export default {
       resetLoading: false,
       webpEnabled: false,
       logoFileName: '',
-      netdiskName: 'JmalCloud',
+      netdiskName: 'DSCloud',
       showAckBtn: false,
       inputNetdiskNameWidth: 150,
       logoFileTypeList: ['image/svg+xml', 'image/jpg', 'image/png', 'image/jpeg'],

@@ -1061,9 +1061,9 @@ export default {
       let clientWidth = container.clientWidth
       this.clientHeight = document.documentElement.clientHeight - this.lessClientHeight
       if (this.queryFileType === 'image') {
-        this.gridColumnNum = Math.round((clientWidth - 10) / 165)
+        this.gridColumnNum = Math.round((clientWidth - 10) / 195)
       } else {
-        this.gridColumnNum = Math.round((clientWidth - 10) / 135)
+        this.gridColumnNum = Math.round((clientWidth - 10) / 145)
       }
       this.gridColumnWidth = (clientWidth - 11 * this.gridColumnNum) / this.gridColumnNum - 4.5
       if (clientWidth < 900) {
@@ -3348,7 +3348,7 @@ export default {
 }
 
 .table-file-name:hover {
-  cursor: default;
+  cursor: pointer;
 }
 
 >>> .plTableBox .el-table .el-table__header {
@@ -3451,8 +3451,14 @@ export default {
   background-position: center;
   padding: 0;
   border-radius: 5px !important;
+  cursor: pointer;
 }
+.van-grid-item__content:hover .grid-item-text{
+  color: #409EFF!important;
+}
+.grid-item-text{
 
+}
 .vmode {
   padding: 5px 10px;
   margin-left: -5px;

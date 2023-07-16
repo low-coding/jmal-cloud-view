@@ -1,5 +1,5 @@
-# JmalCloud Personal Netdisk ｜ [中文](https://github.com/jamebal/jmal-cloud-view/blob/master/README.md)
-JmalCloud It's a private cloud storage project that makes it simple and secure to manage your files in the cloud
+# DSCloud Personal Netdisk ｜ [中文](https://github.com/jamebal/jmal-cloud-view/blob/master/README.md)
+DSCloud It's a private cloud storage project that makes it simple and secure to manage your files in the cloud
 
 ✅ Support OSS, Alibaba Cloud OSS , Tencent Cloud OSS and MinIO
 

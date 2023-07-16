@@ -37,7 +37,7 @@
         </div>
       </div>
       <div>
-        <div class="token-title-desc">您可以使用这些以生成的令牌来操作 JmalCloud API。</div>
+        <div class="token-title-desc">您可以使用这些以生成的令牌来操作 DSCloud API。</div>
         <el-divider></el-divider>
         <div>
           <ul v-if="accessTokenList.length > 0">

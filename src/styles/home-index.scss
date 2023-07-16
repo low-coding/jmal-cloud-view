@@ -189,8 +189,14 @@
 }
 
 >>> .el-table__row >>>.table-file-name:hover {
-  cursor: pointer;
-  color: #19ACF9
+  cursor: pointer!important;
+  color: #19ACF9!important;
+}
+
+>>> .el-table__row:hover {
+  cursor: pointer!important;
+  color: #19ACF9!important;
+  background-color: #EBF4FF!important;
 }
 
 .search-class{

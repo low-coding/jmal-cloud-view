@@ -13,7 +13,7 @@
             <div  class="title">
               <Logo v-model="webstieRecord.netdiskLogo" width="65"></Logo>
               <div class="jmal-cloud-name">
-                <div>{{ webstieRecord.netdiskName ? webstieRecord.netdiskName : 'JmalCloud' }}</div>
+                <div>{{ webstieRecord.netdiskName ? webstieRecord.netdiskName : 'DSCloud' }}</div>
               </div>
             </div>
           </h3>
@@ -140,7 +140,7 @@ export default {
       webstieRecord: {
         copyright: 'Copyright © 2020 Journey Magical AL',
         recordPermissionNum: '',
-        netdiskName: 'jmalcloud',
+        netdiskName: 'dscloud',
         netdiskLogo: ''
       },
       loginForm: {

@@ -30,7 +30,7 @@ export default {
       if (this.$store.state.user.netdiskName) {
         return this.$store.state.user.netdiskName
       }
-      return 'JmalCloud'
+      return 'DSCloud'
     },
     netdiskLogo() {
       if (this.$store.state.user.netdiskLogo) {

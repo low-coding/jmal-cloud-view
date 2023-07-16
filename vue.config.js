@@ -6,7 +6,7 @@ function resolve(dir) {
   return path.join(__dirname, dir)
 }
 
-const name = defaultSettings.title || 'JmalCloud' // page title
+const name = defaultSettings.title || 'DSCloud' // page title
 
 //如果您的端口设置为80，
 //使用管理员权限执行命令行。
