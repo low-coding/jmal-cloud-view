@@ -138,7 +138,7 @@ export default {
     return {
       beianUrl: "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=",
       webstieRecord: {
-        copyright: 'Copyright © 2020 Journey Magical AL',
+        copyright: 'Copyright © 2013 technical.help.darcy.zhang@Outlook.com',
         recordPermissionNum: '',
         netdiskName: 'dscloud',
         netdiskLogo: ''
